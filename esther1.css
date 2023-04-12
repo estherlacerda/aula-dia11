@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+}
+.tudo{
+    width: 100%;
+
+}
+#cabeçalho{
+    height: 100px;
+    background-color: #762449;
+    font-size: 30px;
+    text-align: center;
+}
+#primeiraarea{
+    background-color: #ffc0cb;
+   height: 100px;
+    
+}
+ul{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    height: 55px;   
+}
+a{
+    padding: 20px;
+    list-style: none;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+a:hover{
+    font-size: 35px;
+    color: black;
+    background-color: #ffeff2;
+    border-radius: 50px;
+    box-shadow: 1px 1px 5px black;
+}
+#terceiraarea{
+    background-color: #ffeff2;
+    height: 200px;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
+}
